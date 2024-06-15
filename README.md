@@ -1,16 +1,16 @@
-Weather Application
+### Weather Application
 Welcome to the Weather Application! This application allows you to check the current weather information for various cities around the world.
 
-You can view the live deployment of the application https://suryateja-kraftshala-assignment.netlify.app/
+You can view the live deployment of the application https://kraftshala-assignment-suryateja.netlify.app/
 
-Table of Contents
+### Table of Contents
 Instructions to Run Locally
 Brief Description and Technologies Used
 Known Issues or Limitations
 Instructions to Run Locally
 To run this application locally on your machine, follow these steps:
 
-Clone the Repository:
+### Clone the Repository:
 
 bash
 Copy code
